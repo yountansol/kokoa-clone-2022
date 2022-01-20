@@ -9,3 +9,10 @@
   font-weight: 400;
   color: white;
 }
+
+.reddot {
+  color: tomato;
+
+  font-size: 50px;
+  /* position: absolute;  */
+}
